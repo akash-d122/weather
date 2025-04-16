@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#4F46E5" />
+  
+  <!-- Cloud shape -->
+  <path d="M256 160C256 160 200 160 200 200C200 240 240 240 240 240H272C272 240 312 240 312 200C312 160 256 160 256 160Z" fill="white" />
+  
+  <!-- Sun rays -->
+  <g transform="translate(256, 256)">
+    <circle cx="0" cy="0" r="60" fill="#FCD34D" />
+    <g transform="rotate(0)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(45)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(90)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(135)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(180)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(225)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(270)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+    <g transform="rotate(315)">
+      <rect x="-2" y="-100" width="4" height="40" fill="#FCD34D" />
+    </g>
+  </g>
+</svg> 
