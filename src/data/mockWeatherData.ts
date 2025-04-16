@@ -520,5 +520,5 @@ export const getWeatherBackgroundClass = (condition: WeatherCondition, isDay: bo
 };
 
 export const shouldShowWeatherParticles = (condition: WeatherCondition): boolean => {
-  return true; // Show particles for all weather conditions
+  return condition === 'Rainy' || condition === 'Stormy' || condition === 'Snowy';
 };

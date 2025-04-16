@@ -1,33 +1,22 @@
-# Weather Forecast Application
+# ClimaBloom Weather Dashboard
 
-A modern, responsive weather application that provides real-time weather updates and forecasts. Built with React, TypeScript, and Tailwind CSS.
+A modern weather dashboard application built with React and TypeScript, featuring real-time weather updates and beautiful visualizations.
 
-## Author
+## Development
 
-- **Name**: Akash D
-- **Email**: akashduddekunta@gmail.com
-- **GitHub**: [akash-d122](https://github.com/akash-d122)
+To run the project locally:
 
-## Features
-
-- Real-time weather updates
-- Detailed weather forecasts
-- Location-based weather information
-- Responsive design for all devices
-- Beautiful weather animations
-- Dark/Light mode support
-
-## Getting Started
-
-1. Clone the repository
+1. Clone this repository
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:8080`.
 
 ## Building for Production
 
@@ -37,17 +26,30 @@ To create a production build:
 npm run build
 ```
 
-## Deployment
+## Features
 
-The application can be deployed to any static hosting service. For example:
+- Real-time weather updates
+- Beautiful, responsive design
+- Interactive weather visualizations
+- Multi-location support
+- Detailed weather forecasts
 
-- Vercel
-- Netlify
-- GitHub Pages
+## Technology Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Radix UI
+- Recharts for data visualization
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## License
 
